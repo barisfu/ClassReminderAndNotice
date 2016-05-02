@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shafiqur.classreminder.studioTab" >
+    <item android:id="@+id/logoutInStudioTab"
+        android:title="Logout"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/aboutUs"
+        android:title="About Us"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eastern University Class Management</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_tabs_main">tabsMain</string>
+    <string name="title_activity_studio_tab">studioTab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_about_us">aboutUs</string>
+</resources>
